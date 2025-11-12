@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://dash-2ps.pages.dev/sitemap.xml
